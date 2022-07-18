@@ -86,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
         body: Container(
             color: Color(0xFFEDF0F4), // 색상 설정
-            height: 300, // 슬라이더 높이 설정
+            height: 350, // 슬라이더 높이 설정
             child: Padding(
                 padding: EdgeInsets.all(10), // 전체 여백 지정
                 child: Swiper(
